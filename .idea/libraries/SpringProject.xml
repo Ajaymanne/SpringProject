@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="SpringProject">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/202112_7.zip!/" />
+      <root url="jar://$PROJECT_DIR$/202112_6.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
